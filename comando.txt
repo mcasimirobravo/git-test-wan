@@ -1,0 +1,3 @@
+Para ejecutar esta herramienta, simplemente debemos pasarle como argumentos el archivo .zip a crackear y un diccionario:
+
+bash pinguzip.sh comprimido.zip diccionario.txt
